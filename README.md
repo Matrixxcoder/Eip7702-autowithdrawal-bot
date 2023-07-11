@@ -1,14 +1,11 @@
 # bypass-autowithdrawal-bot
-Bypass auto withdrawal bot in all network
+Bypass Any Auto Withdrawal [ Tokens | NFT | Staking | airdrop] 
 
-![dappradar com-how-to-switch-network-in-metamask-image-1](https://github.com/campbelljaz/bypass-eth-bsc-autowithdrawal/assets/106927843/c5e4ba11-5333-412d-a537-160dd3be3acc)
+![images](https://github.com/Matrixxcoder/bypass-autowithdrawal-bot/assets/106927843/c870bd09-0112-4378-a91a-3756c493525e)
 
 
 >**Safe all token under auto withdrawal bot(Sweeper) in all network.**
 
 >**ERC20, BEP20, FTM, POLYGON, AVAX, CRO etc**
-
->**Stalking, Farming, Vesting, NFT, airdrop etc.**
-
 
 **TELEGRAM: https://t.me/coder_ha**
