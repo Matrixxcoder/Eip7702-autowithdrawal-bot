@@ -11,4 +11,4 @@ Bypass Any Auto Withdrawal [ Tokens | NFT | Staking | airdrop]
 >**I CAN ALSO HELP TO BYPASS FOR 30% ONLY IF YOU DONT HAVE MONEY FOR THE SCRIPT**
 
 
-**TELEGRAM: https://t.me/coder_ha**
+**TELEGRAM: https://t.me/oscar_load**
