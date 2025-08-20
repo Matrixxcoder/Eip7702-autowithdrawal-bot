@@ -1,14 +1,16 @@
-# bypass-autowithdrawal-bot
-Bypass Any Auto Withdrawal [ Tokens | NFT | Staking | airdrop] 
+# EIP Autowithdrawal-bot
+Bypass Pectra Eip7702 bad contract [ Tokens | NFT | Staking | airdrop] 
 
-![images](https://github.com/Matrixxcoder/bypass-autowithdrawal-bot/assets/106927843/c870bd09-0112-4378-a91a-3756c493525e)
-
-
->**Safe all token under auto withdrawal bot(Sweeper) in all network.**
-
->**BEP20, FTM, POLYGON, AVAX, CRO etc**
-
->**I CAN ALSO HELP TO BYPASS FOR 30% ONLY IF YOU DONT HAVE MONEY FOR THE SCRIPT**
+<img width="772" height="290" alt="image" src="https://github.com/user-attachments/assets/49f1de8b-b84b-4e99-a02c-5593a9d548f0" />
 
 
-**TELEGRAM: https://t.me/oscar_load**
+>**Securely rescue ERC20 tokens, NFTs, airdrops, and staking rewards from compromised wallets using a safe, separate wallet**
+
+>**BNB, ETH, POLYGON, OPTIMISM, ARBITRUM, BASE,  etc**
+
+>**We leverage the power of EIP-7702,**
+>
+>
+
+
+**TELEGRAM: https://t.me/rashtug0**
